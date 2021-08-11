@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Rejected is included on the Order status dropdown list</description>
+   <name>TC_UI_044</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f58454d8-4cf4-47bd-b71f-715faf59d34f</testCaseGuid>
+</TestCaseEntity>

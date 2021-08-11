@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if 'Item Found' and 'Selected Item' list are empty</description>
+   <name>06_emptySelectedItemandItemFound</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da6ef38b-4264-4411-8290-d066d488e1c7</testCaseGuid>
+</TestCaseEntity>

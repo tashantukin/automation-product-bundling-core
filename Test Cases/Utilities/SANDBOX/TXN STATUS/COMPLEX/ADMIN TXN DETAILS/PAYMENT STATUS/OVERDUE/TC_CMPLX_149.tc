@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Payment  status will change on Admin PO List to Overdue when Overdue is selected</description>
+   <name>TC_CMPLX_149</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ecd3cb19-fa9f-4dbd-9741-f4c41c3d9220</testCaseGuid>
+</TestCaseEntity>

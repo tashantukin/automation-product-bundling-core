@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Address value is displayed on 'Address' input box when YES button is clicked</description>
+   <name>TC_SIMPLE_039</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>993be728-f84f-4fb6-a829-4440c235d23d</testCaseGuid>
+</TestCaseEntity>

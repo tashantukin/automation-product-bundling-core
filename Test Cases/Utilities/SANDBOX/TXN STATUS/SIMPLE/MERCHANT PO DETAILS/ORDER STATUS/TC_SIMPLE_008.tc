@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Selected value will changed into  'Approved' if Approved is selected</description>
+   <name>TC_SIMPLE_008</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b13a84cc-3756-4827-b0e6-b833c93ea1cd</testCaseGuid>
+</TestCaseEntity>

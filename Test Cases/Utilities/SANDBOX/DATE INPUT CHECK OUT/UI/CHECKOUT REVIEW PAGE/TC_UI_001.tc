@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Date range picker is visible  on check out review page</description>
+   <name>TC_UI_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>94e6595f-9f74-46cc-aaa4-daf9b4bc6b75</testCaseGuid>
+</TestCaseEntity>

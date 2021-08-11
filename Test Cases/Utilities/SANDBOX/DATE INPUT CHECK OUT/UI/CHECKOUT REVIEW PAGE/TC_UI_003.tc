@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Date range picker has no selected value by default</description>
+   <name>TC_UI_003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0c118fa-dc87-4e84-bd2a-dd071be9e174</testCaseGuid>
+</TestCaseEntity>

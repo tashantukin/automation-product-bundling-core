@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Delete the created item from the admin portal</description>
+   <name>Delete Item Admin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>41c8563f-8429-4f05-8f22-b56f5f09fe9e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Order status will change on Buyer PO List to In Process when In Process is selected</description>
+   <name>TC_CMPLX_060</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9f75837-6579-47a0-91ea-f18a42bb4f59</testCaseGuid>
+</TestCaseEntity>

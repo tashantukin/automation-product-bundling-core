@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Invoiced is included on the Payment status dropdown list</description>
+   <name>TC_UI_54</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d772ac6-ef7b-4311-a309-63ed690ed009</testCaseGuid>
+</TestCaseEntity>

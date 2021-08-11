@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if confirmation pop up will not be visible when OK on pop up is clicked</description>
+   <name>TC_SIMPLE_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>403e0b95-80d8-4bce-9487-91da9db37ccc</testCaseGuid>
+</TestCaseEntity>

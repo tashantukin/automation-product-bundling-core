@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if  State input box value will be empty when Save button is clicked</description>
+   <name>TC_SIMPLE_028</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea557ed9-de56-44c8-bd8a-22725c5265e0</testCaseGuid>
+</TestCaseEntity>

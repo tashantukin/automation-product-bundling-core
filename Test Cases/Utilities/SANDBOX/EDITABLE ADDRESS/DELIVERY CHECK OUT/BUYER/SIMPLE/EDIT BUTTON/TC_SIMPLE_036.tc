@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Alternative Contact person name value is displayed on 'Alternative Contact person name' input box when YES button is clicked</description>
+   <name>TC_SIMPLE_036</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>66109d73-e291-4e60-a216-aa863d1fe7c8</testCaseGuid>
+</TestCaseEntity>

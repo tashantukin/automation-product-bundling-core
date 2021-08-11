@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the default value on Product bundling button is zero (0) (for new items to be uploaded)</description>
+   <name>02_defaultValueProductBundling</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>baae0b4d-4d64-481d-945f-3e30f4d5b1f4</testCaseGuid>
+</TestCaseEntity>

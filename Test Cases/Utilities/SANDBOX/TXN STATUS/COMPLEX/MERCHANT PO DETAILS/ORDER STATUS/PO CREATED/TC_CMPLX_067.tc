@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Order status will change on Admin PO details to PO Created  when PO Created  is selected</description>
+   <name>TC_CMPLX_067</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>465ef770-8e2f-4190-9270-7df79312147c</testCaseGuid>
+</TestCaseEntity>

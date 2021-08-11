@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if On Hold is included on the Shipping status dropdown list</description>
+   <name>TC_UI_63</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e92ba75e-785b-44a3-9bbd-76d571e18c57</testCaseGuid>
+</TestCaseEntity>

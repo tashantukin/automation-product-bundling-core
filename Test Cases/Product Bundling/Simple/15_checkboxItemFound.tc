@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if 'Check box button' is present on the Item name</description>
+   <name>15_checkboxItemFound</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b791ce7b-ac61-4ce9-98b7-7c20334b0f08</testCaseGuid>
+</TestCaseEntity>

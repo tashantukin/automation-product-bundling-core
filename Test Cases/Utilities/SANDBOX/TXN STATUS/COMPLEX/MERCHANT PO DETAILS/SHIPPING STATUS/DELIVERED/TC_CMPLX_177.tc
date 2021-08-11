@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Shipping  status will change on Admin PO details to Delivered when Delivered is selected</description>
+   <name>TC_CMPLX_177</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d440562a-5f2a-4a31-bb1c-e5b82c0ed23e</testCaseGuid>
+</TestCaseEntity>

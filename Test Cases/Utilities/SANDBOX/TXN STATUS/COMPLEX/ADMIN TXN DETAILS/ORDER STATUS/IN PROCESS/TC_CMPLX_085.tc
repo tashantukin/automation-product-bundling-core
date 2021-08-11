@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Order status will change on Merchant Order List to In Process when In Process is selected</description>
+   <name>TC_CMPLX_085</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f600d5a7-e4d1-444b-83f2-635fbe670a0a</testCaseGuid>
+</TestCaseEntity>

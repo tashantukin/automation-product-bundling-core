@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if 'ORDER STATUS' header is present and correct header text</description>
+   <name>TC_UI_027</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3ed6287-ad2b-491d-8214-b477d53f6354</testCaseGuid>
+</TestCaseEntity>

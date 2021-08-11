@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Payment status will change on Merchant Order details to Paid when Paid is selected</description>
+   <name>TC_CMPLX_109</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8498adc-4b57-4ea1-b09d-b6c1d98f7882</testCaseGuid>
+</TestCaseEntity>

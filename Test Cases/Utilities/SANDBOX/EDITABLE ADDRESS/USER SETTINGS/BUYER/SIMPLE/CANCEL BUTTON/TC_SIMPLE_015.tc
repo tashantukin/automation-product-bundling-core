@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Alternative contact person number input box value will be empty when Cancel button is clicked</description>
+   <name>TC_SIMPLE_015</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>72cbe0c5-5d5e-4d43-b182-d9e998093c05</testCaseGuid>
+</TestCaseEntity>

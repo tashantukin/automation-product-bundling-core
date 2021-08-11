@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Selected value will changed into  'Invoiced' if Invoiced is selected</description>
+   <name>TC_SIMPLE_016</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7ac2ee79-863e-4910-aec6-be9b5c19825a</testCaseGuid>
+</TestCaseEntity>

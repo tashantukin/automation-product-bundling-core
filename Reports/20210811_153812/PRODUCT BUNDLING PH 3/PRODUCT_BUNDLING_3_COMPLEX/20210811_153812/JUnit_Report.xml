@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="PRODUCT_BUNDLING_3_COMPLEX" time="68.816" tests="1" failures="0" errors="0">
+   <testsuite name="PRODUCT_BUNDLING_3_COMPLEX" tests="1" failures="0" errors="0" time="68.816" timestamp="2021-08-11 15:38:18" hostname="Natasha - Natasha-PC" id="Test Suites/PRODUCT BUNDLING PH 3/PRODUCT_BUNDLING_3_COMPLEX">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\GITHUB\\automation-product-bundling-core\\Reports\\20210811_153812\\PRODUCT BUNDLING PH 3\\PRODUCT_BUNDLING_3_COMPLEX\\20210811_153812"/>
+         <property name="logFiles" value="D:\\GITHUB\\automation-product-bundling-core\\Reports\\20210811_153812\\PRODUCT BUNDLING PH 3\\PRODUCT_BUNDLING_3_COMPLEX\\20210811_153812\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Natasha - Natasha-PC"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.6.6.205"/>
+         <property name="browser" value="Chrome 92.0.4515.131"/>
+         <property name="hostAddress" value="192.168.254.103"/>
+         <property name="sessionId" value="7590b0a0e2857d3438ebdbbff56fa6bd"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Product Bundling/Complex/23_verify_bundled_items_saved" time="68.583" classname="Test Cases/Product Bundling/Complex/23_verify_bundled_items_saved" status="PASSED">
+         <system-out><![CDATA[2021-08-11 15:38:19 - [TEST_CASE][PASSED] - Test Cases/Product Bundling/Complex/23_verify_bundled_items_saved: Test Cases/Product Bundling/Complex/23_verify_bundled_items_saved
+
+2021-08-11 15:38:19 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Utilities/Seller/Navigate to Seller 1"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Utilities/Seller/Navigate to Seller 1' successfully
+
+2021-08-11 15:38:19 - [TEST_CASE][PASSED] - Test Cases/Utilities/Seller/Navigate to Seller 1: Test Cases/Utilities/Seller/Navigate to Seller 1
+
+2021-08-11 15:38:19 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2021-08-11 15:38:20 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2021-08-11 15:38:20 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2021-08-11 15:38:21 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2021-08-11 15:38:21 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2021-08-11 15:38:22 - [MESSAGE][PASSED] - Current window maximized
+
+2021-08-11 15:38:22 - [TEST_STEP][PASSED] - navigateToUrl(URL_USER): Navigate to 'https://youhadmeathello.test.arcadier.io/' successfully
+
+2021-08-11 15:38:26 - [MESSAGE][PASSED] - Navigate to 'https://youhadmeathello.test.arcadier.io/' successfully
+
+2021-08-11 15:38:26 - [TEST_STEP][PASSED] - click(findTestObject("Navigate to seller/a_SIGN IN")): Object: 'Object Repository/Navigate to seller/a_SIGN IN' is clicked on
+
+2021-08-11 15:38:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Navigate to seller/a_SIGN IN' is clicked on
+
+2021-08-11 15:38:28 - [TEST_STEP][PASSED] - setText(findTestObject("Navigate to seller/input_Your EmailUsername_username"), SELLER1_USERNAME): Text 'seller01' is set on object 'Object Repository/Navigate to seller/input_Your EmailUsername_username'
+
+2021-08-11 15:38:29 - [MESSAGE][PASSED] - Text 'seller01' is set on object 'Object Repository/Navigate to seller/input_Your EmailUsername_username'
+
+2021-08-11 15:38:29 - [TEST_STEP][PASSED] - setText(findTestObject("Navigate to seller/input_Your Password_password"), SELLER1_PASSWORD): Text 'welcome8' is set on object 'Object Repository/Navigate to seller/input_Your Password_password'
+
+2021-08-11 15:38:30 - [MESSAGE][PASSED] - Text 'welcome8' is set on object 'Object Repository/Navigate to seller/input_Your Password_password'
+
+2021-08-11 15:38:30 - [TEST_STEP][PASSED] - click(findTestObject("Navigate to seller/input_Your Password_login-submit")): Object: 'Object Repository/Navigate to seller/input_Your Password_login-submit' is clicked on
+
+2021-08-11 15:38:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Navigate to seller/input_Your Password_login-submit' is clicked on
+
+2021-08-11 15:38:49 - [TEST_STEP][PASSED] - click(findTestObject("Navigate to seller/a_Accept Cookies")): Object: 'Object Repository/Navigate to seller/a_Accept Cookies' is clicked on
+
+2021-08-11 15:38:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Navigate to seller/a_Accept Cookies' is clicked on
+
+2021-08-11 15:38:50 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Utilities/Seller/Navigate to Seller 1' successfully
+
+2021-08-11 15:38:50 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Navigate to seller/seller_hover"), STOP_ON_FAILURE): Object: 'Object Repository/Navigate to seller/seller_hover' is hovered
+
+2021-08-11 15:38:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Navigate to seller/seller_hover' is hovered
+
+2021-08-11 15:38:51 - [TEST_STEP][PASSED] - click(findTestObject("Navigate to seller/add_item")): Object: 'Object Repository/Navigate to seller/add_item' is clicked on
+
+2021-08-11 15:38:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Navigate to seller/add_item' is clicked on
+
+2021-08-11 15:38:53 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Item Upload/button_Product bundling"), 0): Object 'Object Repository/Item Upload/button_Product bundling' is present
+
+2021-08-11 15:38:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-11 15:38:53 - [MESSAGE][PASSED] - Object 'Object Repository/Item Upload/button_Product bundling' is present
+
+2021-08-11 15:38:53 - [TEST_STEP][PASSED] - click(findTestObject("sandbox/add_item/add_item_category")): Object: 'Object Repository/sandbox/add_item/add_item_category' is clicked on
+
+2021-08-11 15:38:54 - [MESSAGE][PASSED] - Object: 'Object Repository/sandbox/add_item/add_item_category' is clicked on
+
+2021-08-11 15:38:54 - [TEST_STEP][PASSED] - ts = System.currentTimeMillis() / 1000: null
+
+2021-08-11 15:38:54 - [TEST_STEP][PASSED] - tsAsString = ts.toString(): null
+
+2021-08-11 15:38:54 - [TEST_STEP][PASSED] - setText(findTestObject("Item Upload/textfield _item-name"), "item" + tsAsString): Text 'item1628667534' is set on object 'Object Repository/Item Upload/textfield _item-name'
+
+2021-08-11 15:38:55 - [MESSAGE][PASSED] - Text 'item1628667534' is set on object 'Object Repository/Item Upload/textfield _item-name'
+
+2021-08-11 15:38:55 - [TEST_STEP][PASSED] - itemname = getAttribute(findTestObject("Item Upload/textfield _item-name"), "value"): Attribute 'value' of object 'Object Repository/Item Upload/textfield _item-name' is: 'item1628667534'
+
+2021-08-11 15:38:55 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Item Upload/textfield _item-name' is: 'item1628667534'
+
+2021-08-11 15:38:55 - [TEST_STEP][PASSED] - currentcount = itemcount: null
+
+2021-08-11 15:38:55 - [TEST_STEP][PASSED] - setText(findTestObject("Item Upload/textfield _item-price"), Price): Text '2000.00' is set on object 'Object Repository/Item Upload/textfield _item-price'
+
+2021-08-11 15:38:56 - [MESSAGE][PASSED] - Text '2000.00' is set on object 'Object Repository/Item Upload/textfield _item-price'
+
+2021-08-11 15:38:56 - [TEST_STEP][PASSED] - setText(findTestObject("Item Upload/input_ID_sku-field"), ID): Text '123456' is set on object 'Object Repository/Item Upload/input_ID_sku-field'
+
+2021-08-11 15:38:57 - [MESSAGE][PASSED] - Text '123456' is set on object 'Object Repository/Item Upload/input_ID_sku-field'
+
+2021-08-11 15:38:57 - [TEST_STEP][PASSED] - setText(findTestObject("ITEM UPLOAD/textarea_ITEM DESCRIPTION _item-description"), "item desc" + tsAsString): Text 'item desc1628667534' is set on object 'Object Repository/ITEM UPLOAD/textarea_ITEM DESCRIPTION _item-description'
+
+2021-08-11 15:38:57 - [MESSAGE][PASSED] - Text 'item desc1628667534' is set on object 'Object Repository/ITEM UPLOAD/textarea_ITEM DESCRIPTION _item-description'
+
+2021-08-11 15:38:57 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Item Upload/button_Product bundling"), 0): Object 'Object Repository/Item Upload/button_Product bundling' is present
+
+2021-08-11 15:38:57 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-11 15:38:58 - [MESSAGE][PASSED] - Object 'Object Repository/Item Upload/button_Product bundling' is present
+
+2021-08-11 15:38:58 - [TEST_STEP][PASSED] - click(findTestObject("Item Upload/button_Product bundling")): Object: 'Object Repository/Item Upload/button_Product bundling' is clicked on
+
+2021-08-11 15:38:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Item Upload/button_Product bundling' is clicked on
+
+2021-08-11 15:38:58 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Item Upload/popUpWindow_productBundling"), 0): Object 'Object Repository/Item Upload/popUpWindow_productBundling' is present
+
+2021-08-11 15:38:58 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-11 15:38:59 - [MESSAGE][PASSED] - Object 'Object Repository/Item Upload/popUpWindow_productBundling' is present
+
+2021-08-11 15:38:59 - [TEST_STEP][PASSED] - comment("Search First Item"): Search First Item
+
+2021-08-11 15:38:59 - [MESSAGE][INFO] - Search First Item
+
+2021-08-11 15:38:59 - [TEST_STEP][PASSED] - setText(findTestObject("Item Upload/textfield_Search Item Name"), SELLER_1_ITEM1): Text 'item1628666623' is set on object 'Object Repository/Item Upload/textfield_Search Item Name'
+
+2021-08-11 15:38:59 - [MESSAGE][PASSED] - Text 'item1628666623' is set on object 'Object Repository/Item Upload/textfield_Search Item Name'
+
+2021-08-11 15:38:59 - [TEST_STEP][PASSED] - click(findTestObject("Item Upload/button_Search Item Name")): Object: 'Object Repository/Item Upload/button_Search Item Name' is clicked on
+
+2021-08-11 15:39:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Item Upload/button_Search Item Name' is clicked on
+
+2021-08-11 15:39:00 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Item Upload/checkbox_itemfound 1"), 0): Object 'Object Repository/Item Upload/checkbox_itemfound 1' is visible
+
+2021-08-11 15:39:00 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-11 15:39:01 - [MESSAGE][PASSED] - Object 'Object Repository/Item Upload/checkbox_itemfound 1' is visible
+
+2021-08-11 15:39:01 - [TEST_STEP][PASSED] - click(findTestObject("Item Upload/checkbox_itemfound 1")): Object: 'Object Repository/Item Upload/checkbox_itemfound 1' is clicked on
+
+2021-08-11 15:39:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Item Upload/checkbox_itemfound 1' is clicked on
+
+2021-08-11 15:39:02 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Item Upload/item_selectedvalue_1"), 0): Object 'Object Repository/Item Upload/item_selectedvalue_1' is visible
+
+2021-08-11 15:39:02 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-11 15:39:02 - [MESSAGE][PASSED] - Object 'Object Repository/Item Upload/item_selectedvalue_1' is visible
+
+2021-08-11 15:39:02 - [TEST_STEP][PASSED] - comment("Search Second Item"): Search Second Item
+
+2021-08-11 15:39:02 - [MESSAGE][INFO] - Search Second Item
+
+2021-08-11 15:39:02 - [TEST_STEP][PASSED] - setText(findTestObject("Item Upload/textfield_Search Item Name"), SELLER_1_ITEM2): Text 'item1628666636' is set on object 'Object Repository/Item Upload/textfield_Search Item Name'
+
+2021-08-11 15:39:03 - [MESSAGE][PASSED] - Text 'item1628666636' is set on object 'Object Repository/Item Upload/textfield_Search Item Name'
+
+2021-08-11 15:39:03 - [TEST_STEP][PASSED] - click(findTestObject("Item Upload/button_Search Item Name")): Object: 'Object Repository/Item Upload/button_Search Item Name' is clicked on
+
+2021-08-11 15:39:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Item Upload/button_Search Item Name' is clicked on
+
+2021-08-11 15:39:03 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Item Upload/checkbox_itemfound 1"), 0): Object 'Object Repository/Item Upload/checkbox_itemfound 1' is present
+
+2021-08-11 15:39:03 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-11 15:39:05 - [MESSAGE][PASSED] - Object 'Object Repository/Item Upload/checkbox_itemfound 1' is present
+
+2021-08-11 15:39:05 - [TEST_STEP][PASSED] - click(findTestObject("Item Upload/checkbox_itemfound 1")): Object: 'Object Repository/Item Upload/checkbox_itemfound 1' is clicked on
+
+2021-08-11 15:39:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Item Upload/checkbox_itemfound 1' is clicked on
+
+2021-08-11 15:39:05 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Item Upload/item_selectedvalue_2"), 0): Object 'Object Repository/Item Upload/item_selectedvalue_2' is present
+
+2021-08-11 15:39:05 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-11 15:39:06 - [MESSAGE][PASSED] - Object 'Object Repository/Item Upload/item_selectedvalue_2' is present
+
+2021-08-11 15:39:06 - [TEST_STEP][PASSED] - comment("Search Third Item"): Search Third Item
+
+2021-08-11 15:39:06 - [MESSAGE][INFO] - Search Third Item
+
+2021-08-11 15:39:06 - [TEST_STEP][PASSED] - setText(findTestObject("Item Upload/textfield_Search Item Name"), SELLER_1_ITEM3): Text 'item1628666609' is set on object 'Object Repository/Item Upload/textfield_Search Item Name'
+
+2021-08-11 15:39:07 - [MESSAGE][PASSED] - Text 'item1628666609' is set on object 'Object Repository/Item Upload/textfield_Search Item Name'
+
+2021-08-11 15:39:07 - [TEST_STEP][PASSED] - click(findTestObject("Item Upload/button_Search Item Name")): Object: 'Object Repository/Item Upload/button_Search Item Name' is clicked on
+
+2021-08-11 15:39:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Item Upload/button_Search Item Name' is clicked on
+
+2021-08-11 15:39:07 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Item Upload/checkbox_itemfound 1"), 0): Object 'Object Repository/Item Upload/checkbox_itemfound 1' is present
+
+2021-08-11 15:39:07 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-11 15:39:09 - [MESSAGE][PASSED] - Object 'Object Repository/Item Upload/checkbox_itemfound 1' is present
+
+2021-08-11 15:39:09 - [TEST_STEP][PASSED] - click(findTestObject("Item Upload/checkbox_itemfound 1")): Object: 'Object Repository/Item Upload/checkbox_itemfound 1' is clicked on
+
+2021-08-11 15:39:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Item Upload/checkbox_itemfound 1' is clicked on
+
+2021-08-11 15:39:09 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Item Upload/item_selectedvalue_3"), 0): Object 'Object Repository/Item Upload/item_selectedvalue_3' is present
+
+2021-08-11 15:39:09 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-11 15:39:10 - [MESSAGE][PASSED] - Object 'Object Repository/Item Upload/item_selectedvalue_3' is present
+
+2021-08-11 15:39:10 - [TEST_STEP][PASSED] - item1 = getText(findTestObject("Item Upload/item_selectedvalue_1")): Text of object 'Object Repository/Item Upload/item_selectedvalue_1' is: 'item1628666623'
+
+2021-08-11 15:39:10 - [MESSAGE][PASSED] - Text of object 'Object Repository/Item Upload/item_selectedvalue_1' is: 'item1628666623'
+
+2021-08-11 15:39:10 - [TEST_STEP][PASSED] - item2 = getText(findTestObject("Item Upload/item_selectedvalue_2")): Text of object 'Object Repository/Item Upload/item_selectedvalue_2' is: 'item1628666636'
+
+2021-08-11 15:39:10 - [MESSAGE][PASSED] - Text of object 'Object Repository/Item Upload/item_selectedvalue_2' is: 'item1628666636'
+
+2021-08-11 15:39:10 - [TEST_STEP][PASSED] - item3 = getText(findTestObject("Item Upload/item_selectedvalue_3")): Text of object 'Object Repository/Item Upload/item_selectedvalue_3' is: 'item1628666609'
+
+2021-08-11 15:39:11 - [MESSAGE][PASSED] - Text of object 'Object Repository/Item Upload/item_selectedvalue_3' is: 'item1628666609'
+
+2021-08-11 15:39:11 - [TEST_STEP][PASSED] - click(findTestObject("Item Upload/button_popUpSave")): Object: 'Object Repository/Item Upload/button_popUpSave' is clicked on
+
+2021-08-11 15:39:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Item Upload/button_popUpSave' is clicked on
+
+2021-08-11 15:39:11 - [TEST_STEP][PASSED] - comment("Image Uploading"): Image Uploading
+
+2021-08-11 15:39:11 - [MESSAGE][INFO] - Image Uploading
+
+2021-08-11 15:39:11 - [TEST_STEP][PASSED] - click(findTestObject("ITEM UPLOAD/a_BROWSE")): Object: 'Object Repository/ITEM UPLOAD/a_BROWSE' is clicked on
+
+2021-08-11 15:39:12 - [MESSAGE][PASSED] - Object: 'Object Repository/ITEM UPLOAD/a_BROWSE' is clicked on
+
+2021-08-11 15:39:12 - [TEST_STEP][PASSED] - userDir = System.getProperty("user.dir"): null
+
+2021-08-11 15:39:12 - [TEST_STEP][PASSED] - filePath = userDir + "\images\medicine.jpg": null
+
+2021-08-11 15:39:12 - [TEST_STEP][PASSED] - uploadFile(findTestObject("ITEM UPLOAD/input_Upload Image_upload-file"), filePath): File 'D:\GITHUB\automation-product-bundling-core\images\medicine.jpg' sent to object: 'Object Repository/ITEM UPLOAD/input_Upload Image_upload-file'
+
+2021-08-11 15:39:12 - [MESSAGE][PASSED] - File 'D:\GITHUB\automation-product-bundling-core\images\medicine.jpg' sent to object: 'Object Repository/ITEM UPLOAD/input_Upload Image_upload-file'
+
+2021-08-11 15:39:12 - [TEST_STEP][PASSED] - click(findTestObject("ITEM UPLOAD/div_Upload Image_crop")): Object: 'Object Repository/ITEM UPLOAD/div_Upload Image_crop' is clicked on
+
+2021-08-11 15:39:13 - [MESSAGE][PASSED] - Object: 'Object Repository/ITEM UPLOAD/div_Upload Image_crop' is clicked on
+
+2021-08-11 15:39:13 - [TEST_STEP][PASSED] - setText(findTestObject("ITEM UPLOAD/input_QUANTITY _item-quantity"), "200"): Text '200' is set on object 'Object Repository/ITEM UPLOAD/input_QUANTITY _item-quantity'
+
+2021-08-11 15:39:14 - [MESSAGE][PASSED] - Text '200' is set on object 'Object Repository/ITEM UPLOAD/input_QUANTITY _item-quantity'
+
+2021-08-11 15:39:14 - [TEST_STEP][PASSED] - click(findTestObject("ITEM UPLOAD/a_SAVE")): Object: 'Object Repository/ITEM UPLOAD/a_SAVE' is clicked on
+
+2021-08-11 15:39:15 - [MESSAGE][PASSED] - Object: 'Object Repository/ITEM UPLOAD/a_SAVE' is clicked on
+
+2021-08-11 15:39:15 - [TEST_STEP][PASSED] - click(findTestObject("Item Upload/button_do_it_laturr")): Object: 'Object Repository/Item Upload/button_do_it_laturr' is clicked on
+
+2021-08-11 15:39:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Item Upload/button_do_it_laturr' is clicked on
+
+2021-08-11 15:39:17 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2021-08-11 15:39:22 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2021-08-11 15:39:22 - [TEST_STEP][PASSED] - SELLER_1_ITEM1 = itemname: null
+
+2021-08-11 15:39:22 - [TEST_STEP][PASSED] - nxtcount = currentcount + 1: null
+
+2021-08-11 15:39:22 - [TEST_STEP][PASSED] - itemcount = nxtcount: null
+
+2021-08-11 15:39:22 - [TEST_STEP][PASSED] - setText(findTestObject("bundled_items/input_YOUR ITEMS_search-item"), SELLER_1_ITEM1): Text 'item1628667534' is set on object 'Object Repository/bundled_items/input_YOUR ITEMS_search-item'
+
+2021-08-11 15:39:23 - [MESSAGE][PASSED] - Text 'item1628667534' is set on object 'Object Repository/bundled_items/input_YOUR ITEMS_search-item'
+
+2021-08-11 15:39:23 - [TEST_STEP][PASSED] - click(findTestObject("bundled_items/input_YOUR ITEMS_item-search-btn")): Object: 'Object Repository/bundled_items/input_YOUR ITEMS_item-search-btn' is clicked on
+
+2021-08-11 15:39:23 - [MESSAGE][PASSED] - Object: 'Object Repository/bundled_items/input_YOUR ITEMS_item-search-btn' is clicked on
+
+2021-08-11 15:39:23 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("bundled_items/a_Sample Item"), 0): Object 'Object Repository/bundled_items/a_Sample Item' is visible
+
+2021-08-11 15:39:23 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-11 15:39:24 - [MESSAGE][PASSED] - Object 'Object Repository/bundled_items/a_Sample Item' is visible
+
+2021-08-11 15:39:24 - [TEST_STEP][PASSED] - click(findTestObject("bundled_items/a_Sample Item")): Object: 'Object Repository/bundled_items/a_Sample Item' is clicked on
+
+2021-08-11 15:39:24 - [MESSAGE][PASSED] - Object: 'Object Repository/bundled_items/a_Sample Item' is clicked on
+
+2021-08-11 15:39:24 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2021-08-11 15:39:25 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2021-08-11 15:39:25 - [TEST_STEP][PASSED] - switchToWindowIndex(1): Switched to window with index: '1'
+
+2021-08-11 15:39:25 - [MESSAGE][PASSED] - Switched to window with index: '1'
+
+2021-08-11 15:39:25 - [TEST_STEP][PASSED] - click(findTestObject("BUYER CHECKOUT - SUCCESS PAGE/a_ADD TO CART")): Object: 'Object Repository/BUYER CHECKOUT - SUCCESS PAGE/a_ADD TO CART' is clicked on
+
+2021-08-11 15:39:26 - [MESSAGE][PASSED] - Object: 'Object Repository/BUYER CHECKOUT - SUCCESS PAGE/a_ADD TO CART' is clicked on
+
+2021-08-11 15:39:26 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("sandbox/add_item/prod_box_modal"), 0, STOP_ON_FAILURE): Object 'Object Repository/sandbox/add_item/prod_box_modal' is present
+
+2021-08-11 15:39:26 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-11 15:39:27 - [MESSAGE][PASSED] - Object 'Object Repository/sandbox/add_item/prod_box_modal' is present]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2021-08-11 15:38:18 - [TEST_SUITE][PASSED] - PRODUCT_BUNDLING_3_COMPLEX: Test Cases/Product Bundling/Complex/23_verify_bundled_items_saved]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

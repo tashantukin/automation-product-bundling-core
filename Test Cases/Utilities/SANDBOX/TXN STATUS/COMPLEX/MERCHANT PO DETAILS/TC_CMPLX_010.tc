@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Order status is 'PO Created' by default</description>
+   <name>TC_CMPLX_010</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea8e4cd5-d833-4e6d-9bbd-eb8d9b5c0257</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the Selected Item is 'removed' when remove button is clicked</description>
+   <name>20_itemRemoved</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>69180590-38ff-4430-b706-80b7baef403a</testCaseGuid>
+</TestCaseEntity>

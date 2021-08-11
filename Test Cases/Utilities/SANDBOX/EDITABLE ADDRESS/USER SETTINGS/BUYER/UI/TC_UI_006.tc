@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if  Cancel  button up is clickable</description>
+   <name>TC_UI_006</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f6011b3-2c10-4b24-bfec-a36c592c18b5</testCaseGuid>
+</TestCaseEntity>

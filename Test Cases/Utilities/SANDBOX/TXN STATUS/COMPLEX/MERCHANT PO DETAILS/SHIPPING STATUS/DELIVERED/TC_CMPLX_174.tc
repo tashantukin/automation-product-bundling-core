@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Shipping  status will change on Buyer PO List to Delivered when Delivered is selected</description>
+   <name>TC_CMPLX_174</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea6fb38e-25a8-4973-affd-7398f9c490a5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Order status will change on Buyer PO details to Rejected when Rejected is selected</description>
+   <name>TC_CMPLX_056</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>11a55ff7-c996-4869-b893-ae3fe5f7f02e</testCaseGuid>
+</TestCaseEntity>

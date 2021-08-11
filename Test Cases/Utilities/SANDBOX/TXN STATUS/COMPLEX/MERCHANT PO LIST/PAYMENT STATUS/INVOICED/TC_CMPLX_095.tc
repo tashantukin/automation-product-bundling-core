@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Payment  status will change on Buyer PO List to Invoiced when Invoiced is selected</description>
+   <name>TC_CMPLX_095</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>feae9fa8-59e8-4b67-8040-a519ed8ee8dc</testCaseGuid>
+</TestCaseEntity>

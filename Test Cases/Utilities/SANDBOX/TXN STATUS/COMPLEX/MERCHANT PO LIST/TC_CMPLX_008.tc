@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Payment status is 'Payment Pending' by default</description>
+   <name>TC_CMPLX_008</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca219e17-4fa8-43ec-b921-055c89a8a9fc</testCaseGuid>
+</TestCaseEntity>

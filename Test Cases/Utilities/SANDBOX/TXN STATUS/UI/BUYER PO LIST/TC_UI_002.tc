@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if SHIPPING STATUS header is present and correct header text</description>
+   <name>TC_UI_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec8b34ab-cb57-4103-8d30-77794caece87</testCaseGuid>
+</TestCaseEntity>

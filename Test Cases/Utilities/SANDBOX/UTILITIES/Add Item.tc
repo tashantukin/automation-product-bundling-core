@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Adding items on Merchant portal</description>
+   <name>Add Item</name>
+   <tag></tag>
+   <comment>Image Uploading</comment>
+   <testCaseGuid>7577dc64-26a4-43a3-bebc-f784ff2f1821</testCaseGuid>
+</TestCaseEntity>

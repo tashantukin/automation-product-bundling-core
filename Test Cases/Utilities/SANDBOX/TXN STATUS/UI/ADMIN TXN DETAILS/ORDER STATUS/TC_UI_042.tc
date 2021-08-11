@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Acknowledged  is included on the Order status dropdown list</description>
+   <name>TC_UI_042</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b79ac07-0645-4296-85e4-8b6d3fbfab0e</testCaseGuid>
+</TestCaseEntity>

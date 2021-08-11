@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Date range picker's Cancel  button  is clickable  on check out review page</description>
+   <name>TC_UI_008</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9c887023-0bfd-4d5c-ab12-68913c17351f</testCaseGuid>
+</TestCaseEntity>

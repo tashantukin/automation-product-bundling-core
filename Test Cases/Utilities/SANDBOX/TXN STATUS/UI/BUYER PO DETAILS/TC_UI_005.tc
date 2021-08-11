@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if PAYMENT STATUS label is present</description>
+   <name>TC_UI_005</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8c23c45c-2e11-4828-b304-38f819b4824f</testCaseGuid>
+</TestCaseEntity>

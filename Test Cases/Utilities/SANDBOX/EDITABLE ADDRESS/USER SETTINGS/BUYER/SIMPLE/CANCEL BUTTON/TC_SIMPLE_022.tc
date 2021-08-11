@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if  Cancel button is not visible when Cancel button is clicked</description>
+   <name>TC_SIMPLE_022</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9402dbb-762f-4a52-8842-9b21e71becf3</testCaseGuid>
+</TestCaseEntity>

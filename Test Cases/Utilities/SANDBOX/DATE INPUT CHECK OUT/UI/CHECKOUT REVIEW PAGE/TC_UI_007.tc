@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Date range picker's Apply button  is clickable  on check out review page</description>
+   <name>TC_UI_007</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0e06e2ab-6d76-4dc4-b6e2-30ce5cd9c480</testCaseGuid>
+</TestCaseEntity>

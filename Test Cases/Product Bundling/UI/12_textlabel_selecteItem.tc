@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if 'Selected Item} label is present on the pop up</description>
+   <name>12_textlabel_selecteItem</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da738704-f54e-43ed-b56f-2cacb9d60f66</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_USD 1,500.20_lazyloaded</name>
+   <tag></tag>
+   <elementGuidId>d7c0b483-966e-4264-b280-4bebcb1907c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react_0HM7DNR8ELV90']/div/div/div[3]/div/div/a[9]/div/div/div[2]/img</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@src = 'https://diagnostics.sandbox.arcadier.io/images/items/item-45912-637517110570147129-b95nz7.jpg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://diagnostics.sandbox.arcadier.io/images/items/item-45912-637517110570147129-b95nz7.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> lazyloaded</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://diagnostics.sandbox.arcadier.io/images/items/item-45912-637517110570147129-b95nz7.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react_0HM7DNR8ELV90&quot;)/div[1]/div[1]/div[@class=&quot;section section-shop&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/a[9]/div[@class=&quot;shop-box col-md-3&quot;]/div[@class=&quot;box-inner&quot;]/div[@class=&quot;shopimg-preview&quot;]/img[@class=&quot;lazyloaded&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react_0HM7DNR8ELV90']/div/div/div[3]/div/div/a[9]/div/div/div[2]/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://diagnostics.sandbox.arcadier.io/images/items/item-45912-637517110570147129-b95nz7.jpg')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[9]/div/div/div[2]/img</value>
+   </webElementXpaths>
+</WebElementEntity>

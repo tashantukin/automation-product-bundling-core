@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the list of items under Item Found is based on the inputted value on Search Item Name textfield</description>
+   <name>14_searchItem</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b840d545-e94e-490b-9be0-d3a478e31a17</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Order status dropdown is present</description>
+   <name>TC_UI_016</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>619d59bc-e295-4055-83f4-445e6425fb0b</testCaseGuid>
+</TestCaseEntity>

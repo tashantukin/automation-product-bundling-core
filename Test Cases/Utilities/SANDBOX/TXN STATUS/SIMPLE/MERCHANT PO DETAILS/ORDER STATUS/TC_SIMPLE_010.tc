@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Selected value will changed into  'In Process' if In Process is selected</description>
+   <name>TC_SIMPLE_010</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>430650ac-d903-4bad-884d-65d0bb17c9b0</testCaseGuid>
+</TestCaseEntity>

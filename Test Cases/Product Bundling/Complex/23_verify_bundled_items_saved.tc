@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if { RELATED PRODUCTS } text label is present</description>
+   <name>23_verify_bundled_items_saved</name>
+   <tag></tag>
+   <comment>Search First Item
+Search Second Item
+Search Third Item
+Image Uploading</comment>
+   <testCaseGuid>1df535f8-9c1f-4681-9092-fa853b12a830</testCaseGuid>
+</TestCaseEntity>

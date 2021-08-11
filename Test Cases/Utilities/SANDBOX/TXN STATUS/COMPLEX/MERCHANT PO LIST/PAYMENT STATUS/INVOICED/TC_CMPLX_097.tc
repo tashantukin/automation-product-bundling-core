@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Payment  status will change on Admin PO List to Invoiced when Invoiced is selected</description>
+   <name>TC_CMPLX_097</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9aa567df-5db7-4f1b-9052-ba42e3ad356e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if  OK  button on pop up is clickable</description>
+   <name>TC_UI_004</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c691ecf4-588c-4cff-adf9-68b904ba1404</testCaseGuid>
+</TestCaseEntity>

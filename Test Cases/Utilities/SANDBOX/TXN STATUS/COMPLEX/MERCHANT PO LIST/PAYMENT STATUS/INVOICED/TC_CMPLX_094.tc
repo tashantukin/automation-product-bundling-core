@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Payment status will change on Merchant Order details to Invoiced when Invoiced is selected</description>
+   <name>TC_CMPLX_094</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2794538-1d5d-405d-ba61-df502091490e</testCaseGuid>
+</TestCaseEntity>

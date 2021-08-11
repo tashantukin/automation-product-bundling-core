@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_USD 100.25_ls-is-cached lazyloaded</name>
+   <tag></tag>
+   <elementGuidId>0d174f7b-ebf4-4b42-b6e5-a79db091b184</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react_0HM7DNR8ELV97']/div/div/div[3]/div/div/a[8]/div/div/div[2]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://diagnostics.sandbox.arcadier.io/images/items/item-45913-637519914787619273-yra6hk.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> ls-is-cached lazyloaded</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://diagnostics.sandbox.arcadier.io/images/items/item-45913-637519914787619273-yra6hk.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react_0HM7DNR8ELV97&quot;)/div[1]/div[1]/div[@class=&quot;section section-shop&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/a[8]/div[@class=&quot;shop-box col-md-3&quot;]/div[@class=&quot;box-inner&quot;]/div[@class=&quot;shopimg-preview&quot;]/img[@class=&quot;ls-is-cached lazyloaded&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react_0HM7DNR8ELV97']/div/div/div[3]/div/div/a[8]/div/div/div[2]/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://diagnostics.sandbox.arcadier.io/images/items/item-45913-637519914787619273-yra6hk.jpg')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[8]/div/div/div[2]/img</value>
+   </webElementXpaths>
+</WebElementEntity>

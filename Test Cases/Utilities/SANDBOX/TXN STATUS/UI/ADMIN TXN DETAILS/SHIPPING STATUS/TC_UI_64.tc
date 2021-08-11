@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Shipped is included on the Shipping status dropdown list</description>
+   <name>TC_UI_64</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5a4af14-017b-4896-84cc-1c9b440c2c5d</testCaseGuid>
+</TestCaseEntity>

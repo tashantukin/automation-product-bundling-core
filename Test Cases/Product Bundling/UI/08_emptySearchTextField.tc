@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the Search input box is empty.</description>
+   <name>08_emptySearchTextField</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fde2f4cd-9d84-434f-b03a-5e2a981d8989</testCaseGuid>
+</TestCaseEntity>

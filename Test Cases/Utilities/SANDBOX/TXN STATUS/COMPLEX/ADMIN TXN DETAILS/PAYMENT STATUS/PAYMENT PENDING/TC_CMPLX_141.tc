@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Payment  status will change on Merchant PO Details to Payment Pending when Payment Pending is selected</description>
+   <name>TC_CMPLX_141</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>30bbfcac-6442-426b-9f81-1b346d2391bb</testCaseGuid>
+</TestCaseEntity>

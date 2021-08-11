@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Order status will change on Admin PO details to In Process  when In Process is selected</description>
+   <name>TC_CMPLX_084</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a41bde30-6dc8-42df-9332-a4b3193d2d6c</testCaseGuid>
+</TestCaseEntity>

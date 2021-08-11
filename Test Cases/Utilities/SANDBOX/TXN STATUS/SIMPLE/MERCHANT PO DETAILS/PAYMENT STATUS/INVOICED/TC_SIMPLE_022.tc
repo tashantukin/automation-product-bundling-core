@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Selected value will changed into  'Paid' if Paid is selected</description>
+   <name>TC_SIMPLE_022</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b338707c-dfe4-4c51-913b-7379bd0a90cb</testCaseGuid>
+</TestCaseEntity>

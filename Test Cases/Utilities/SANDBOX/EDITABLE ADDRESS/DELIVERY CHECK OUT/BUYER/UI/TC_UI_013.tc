@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if  Cancel  button up is displayed when OK button on pop up is clicked</description>
+   <name>TC_UI_013</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1a15f959-07fc-47c4-83d2-6b4a59734355</testCaseGuid>
+</TestCaseEntity>

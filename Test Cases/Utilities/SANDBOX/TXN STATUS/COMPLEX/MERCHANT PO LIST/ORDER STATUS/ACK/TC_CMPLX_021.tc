@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Order status will change on Buyer PO details to 'Acknowledged'' when Acknowledged' is selected</description>
+   <name>TC_CMPLX_021</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd17c95e-42dc-45c5-b560-da6ea4c5d9ae</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if confirmation pop up will display when Edit button is clicked</description>
+   <name>TC_SIMPLE_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4b150e42-ef1f-46b7-b77d-c99faea30caa</testCaseGuid>
+</TestCaseEntity>

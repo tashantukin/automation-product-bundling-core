@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Shipping status is 'On hold' by default</description>
+   <name>TC_CMPLX_018</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e60d4f7c-c8e1-41f7-95a1-65f4023b793a</testCaseGuid>
+</TestCaseEntity>

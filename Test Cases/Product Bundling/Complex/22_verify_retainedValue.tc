@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the Loaded items in Selected Item list are the same chosen items</description>
+   <name>22_verify_retainedValue</name>
+   <tag></tag>
+   <comment>Search First Item
+Search Second Item
+Search Third Item</comment>
+   <testCaseGuid>b796d74f-018c-4d19-96f9-3a1820f4b694</testCaseGuid>
+</TestCaseEntity>

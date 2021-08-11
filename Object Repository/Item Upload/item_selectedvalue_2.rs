@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>item_selectedvalue_2</name>
+   <tag></tag>
+   <elementGuidId>74385b01-7f25-49df-85cd-b57819faca69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[6]/div/div/div/div[3]/div/ul[2]/li/span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[6]/div/div/div/div[3]/div/ul[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div[3]/div/ul[2]/li/span</value>
+   </webElementProperties>
+</WebElementEntity>

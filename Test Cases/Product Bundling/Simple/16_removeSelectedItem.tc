@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if 'Selected item on the list is removed when the check box is 'Unchecked'</description>
+   <name>16_removeSelectedItem</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e371bdf9-cad6-4137-a7ef-daf23fba6d00</testCaseGuid>
+</TestCaseEntity>

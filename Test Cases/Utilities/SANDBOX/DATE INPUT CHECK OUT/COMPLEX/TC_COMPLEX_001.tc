@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if selected dates are displayed on Buyer purchase order history details</description>
+   <name>TC_COMPLEX_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf62310a-8fe7-4bf2-ac81-46b656abe00c</testCaseGuid>
+</TestCaseEntity>

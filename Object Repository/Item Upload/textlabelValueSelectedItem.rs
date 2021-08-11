@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textlabelValueSelectedItem</name>
+   <tag></tag>
+   <elementGuidId>eeb28532-d7e5-490d-9e71-c7c8f2f7341f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[6]/div/div/div/div[3]/div/ul/li/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div[3]/div/ul/li/span</value>
+   </webElementProperties>
+</WebElementEntity>

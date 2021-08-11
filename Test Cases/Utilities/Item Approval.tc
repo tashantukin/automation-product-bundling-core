@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Approval of created items on admin portal</description>
+   <name>Item Approval</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b51d21cd-0233-441f-bcbc-0c3505de8186</testCaseGuid>
+</TestCaseEntity>

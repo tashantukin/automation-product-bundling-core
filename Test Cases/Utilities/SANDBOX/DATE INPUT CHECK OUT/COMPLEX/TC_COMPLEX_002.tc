@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if selected dates are displayed on Merchant  order history details</description>
+   <name>TC_COMPLEX_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68d00fb6-474e-4d7d-a972-206c7f697be6</testCaseGuid>
+</TestCaseEntity>

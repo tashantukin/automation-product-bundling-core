@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Payment  status will change on Admin PO List to Payment Pending when Payment Pending is selected</description>
+   <name>TC_CMPLX_102</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf1f9bc3-494a-466a-b77f-af7e6962a283</testCaseGuid>
+</TestCaseEntity>

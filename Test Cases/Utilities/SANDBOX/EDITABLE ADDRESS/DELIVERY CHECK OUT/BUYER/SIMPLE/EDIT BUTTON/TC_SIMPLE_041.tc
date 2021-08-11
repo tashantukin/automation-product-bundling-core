@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if State value is displayed on State input box when YES button is clicked</description>
+   <name>TC_SIMPLE_041</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0f8b9e6-f378-4ed6-860d-8feb4edf662b</testCaseGuid>
+</TestCaseEntity>

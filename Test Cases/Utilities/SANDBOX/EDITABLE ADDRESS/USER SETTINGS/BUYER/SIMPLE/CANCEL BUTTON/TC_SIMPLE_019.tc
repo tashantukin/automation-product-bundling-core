@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if  State input box value will be empty when Cancel button is clicked</description>
+   <name>TC_SIMPLE_019</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b9f076d-ab36-49fc-8469-f241628857bd</testCaseGuid>
+</TestCaseEntity>

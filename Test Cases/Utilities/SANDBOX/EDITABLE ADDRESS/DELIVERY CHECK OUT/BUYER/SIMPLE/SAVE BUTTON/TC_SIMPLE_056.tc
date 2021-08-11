@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if  the edited Alternative contact person email  will be displayed  on Saved Addresses section  when the Save button is clicked</description>
+   <name>TC_SIMPLE_056</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9125d878-1b79-409a-a4de-30546c827e63</testCaseGuid>
+</TestCaseEntity>

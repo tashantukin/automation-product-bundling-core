@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if  Country input box value will be empty when Cancel button is clicked</description>
+   <name>TC_SIMPLE_049</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>72b05966-7de5-4ab6-bb5c-e184ae19836c</testCaseGuid>
+</TestCaseEntity>

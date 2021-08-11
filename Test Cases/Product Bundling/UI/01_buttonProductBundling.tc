@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if {PRODUCT BUNDLING(n) } button  is present</description>
+   <name>01_buttonProductBundling</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>13fad97a-2f8d-407e-ad21-a7156423ec9b</testCaseGuid>
+</TestCaseEntity>

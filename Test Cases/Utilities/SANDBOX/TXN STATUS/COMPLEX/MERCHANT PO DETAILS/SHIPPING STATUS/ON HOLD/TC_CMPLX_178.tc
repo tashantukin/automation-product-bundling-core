@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Shipping status will change on Merchant Order List to On Hold  when On Hold is selected</description>
+   <name>TC_CMPLX_178</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5fcc457-0fd4-49b0-a207-5c9dc9c2df4f</testCaseGuid>
+</TestCaseEntity>

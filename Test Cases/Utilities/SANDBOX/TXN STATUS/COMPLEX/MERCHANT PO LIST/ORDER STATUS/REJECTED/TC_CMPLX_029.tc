@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Order status will change on Merchant Order details to Rejected when Rejected is selected</description>
+   <name>TC_CMPLX_029</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6302bd6-8760-4975-8396-3b6f4500fe1f</testCaseGuid>
+</TestCaseEntity>

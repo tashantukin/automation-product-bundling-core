@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if SHIPPING STATUS label is present</description>
+   <name>TC_UI_015</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c7a413db-edec-4278-8627-361bbabfd0c1</testCaseGuid>
+</TestCaseEntity>

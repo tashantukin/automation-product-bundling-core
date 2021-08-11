@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Order status will change on Admin PO details to 'Approved' when Approved is selected</description>
+   <name>TC_CMPLX_052</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e43f135e-a181-4965-900e-71693df55523</testCaseGuid>
+</TestCaseEntity>

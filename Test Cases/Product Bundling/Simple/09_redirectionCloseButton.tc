@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the 'pop up' closes when the 'Close button' is clicked</description>
+   <name>09_redirectionCloseButton</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76ab5b80-b6b0-407c-a276-91a65384eb86</testCaseGuid>
+</TestCaseEntity>

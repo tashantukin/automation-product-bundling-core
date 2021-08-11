@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if  the edited Address input box value will be displayed  on Saved Addresses section  when the  Save button is clicked</description>
+   <name>TC_COMPLEX_004</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc615259-0b0c-4b38-bf6e-22fcde56df7a</testCaseGuid>
+</TestCaseEntity>

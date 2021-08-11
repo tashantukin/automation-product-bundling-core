@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if  Alternative contact person email input box value will be empty when Save button is clicked</description>
+   <name>TC_SIMPLE_025</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0dcc23f-f79b-4cbc-90b1-203150cba238</testCaseGuid>
+</TestCaseEntity>

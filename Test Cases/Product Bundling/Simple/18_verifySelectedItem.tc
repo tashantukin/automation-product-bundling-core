@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the selected items on Item Found will automatically added to Selected Item List</description>
+   <name>18_verifySelectedItem</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b94bd9de-f675-456c-af24-0b5e423b57f4</testCaseGuid>
+</TestCaseEntity>

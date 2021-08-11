@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Order status will change on Buyer PO List to 'Approved when 'Approved is selected</description>
+   <name>TC_CMPLX_077</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a166c5f0-8566-4cba-8616-0f203adce62c</testCaseGuid>
+</TestCaseEntity>

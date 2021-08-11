@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if PROCEED button function is disabled when date time picker is empty</description>
+   <name>TC_SIMPLE_003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f2bdcdb-66f0-4d04-8610-99887dadd11c</testCaseGuid>
+</TestCaseEntity>

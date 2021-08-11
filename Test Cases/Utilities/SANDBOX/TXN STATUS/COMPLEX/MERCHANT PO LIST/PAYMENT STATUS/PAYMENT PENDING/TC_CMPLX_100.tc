@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Payment  status will change on Buyer PO List to Payment Pending when Payment Pending is selected</description>
+   <name>TC_CMPLX_100</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4906ae08-5a8f-41c0-b89e-210eb82bdd0c</testCaseGuid>
+</TestCaseEntity>

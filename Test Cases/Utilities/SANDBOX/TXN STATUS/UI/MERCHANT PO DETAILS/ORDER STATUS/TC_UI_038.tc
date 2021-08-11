@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Approved is included on the Order status dropdown list</description>
+   <name>TC_UI_038</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd88c0de-ae51-4c55-8c8d-4230d3086e0c</testCaseGuid>
+</TestCaseEntity>

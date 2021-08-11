@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Selected value will changed into  'Payment Pending' if Payment Pending is selected</description>
+   <name>TC_SIMPLE_017</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e690e926-1b25-4d76-b428-50a9e29fded1</testCaseGuid>
+</TestCaseEntity>

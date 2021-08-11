@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Payment Pending  is included on the Payment status dropdown list</description>
+   <name>TC_UI_47</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ee2d958-7a61-422a-a74c-36603903b936</testCaseGuid>
+</TestCaseEntity>

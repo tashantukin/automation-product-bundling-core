@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if  Address input box value will be empty when Save button is clicked</description>
+   <name>TC_SIMPLE_026</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b8f34eed-34e1-4455-91cc-83326fbe233c</testCaseGuid>
+</TestCaseEntity>

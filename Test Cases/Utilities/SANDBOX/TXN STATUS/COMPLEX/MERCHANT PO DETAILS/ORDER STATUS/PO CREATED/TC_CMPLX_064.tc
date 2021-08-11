@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Order status will change on Merchant Order list to PO Created when PO Created  is selected</description>
+   <name>TC_CMPLX_064</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>873cd338-60d2-446b-8021-c44ef9a52b39</testCaseGuid>
+</TestCaseEntity>

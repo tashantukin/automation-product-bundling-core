@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Payment status dropdown is present</description>
+   <name>TC_UI_024</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c359be95-855a-4da6-868d-25468cff914f</testCaseGuid>
+</TestCaseEntity>

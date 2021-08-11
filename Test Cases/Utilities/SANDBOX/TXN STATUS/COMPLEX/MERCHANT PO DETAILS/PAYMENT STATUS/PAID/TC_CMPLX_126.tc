@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Payment  status will change on Buyer PO details to Paid when Paid is selected</description>
+   <name>TC_CMPLX_126</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76dc802d-f49e-403a-a82a-6c57da48a6eb</testCaseGuid>
+</TestCaseEntity>

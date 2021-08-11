@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check out an item up to check out review page</description>
+   <name>CHECK OUT ITEM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5026dfa0-1345-410c-8bb6-8fd9024fde50</testCaseGuid>
+</TestCaseEntity>

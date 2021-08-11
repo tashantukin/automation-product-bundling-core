@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if In Process is included on the Order status dropdown list</description>
+   <name>TC_UI_045</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d962d7c4-24f1-4f65-ac94-9f18fce90319</testCaseGuid>
+</TestCaseEntity>

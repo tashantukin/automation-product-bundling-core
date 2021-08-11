@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the edited Alternative Contact person will be displayed  on Saved Addresses section  when the Save button is clicked</description>
+   <name>TC_COMPLEX_001</name>
+   <tag></tag>
+   <comment>Set text of all the fields </comment>
+   <testCaseGuid>ba34232d-3491-40db-97e1-03558458bc1a</testCaseGuid>
+</TestCaseEntity>

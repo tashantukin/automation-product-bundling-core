@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if  the edited Country input box value will be displayed  on Saved  Addresses section  when the Save button is clicked</description>
+   <name>TC_COMPLEX_005</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9283c0dc-9b28-452b-8474-2cbc38c31e4d</testCaseGuid>
+</TestCaseEntity>

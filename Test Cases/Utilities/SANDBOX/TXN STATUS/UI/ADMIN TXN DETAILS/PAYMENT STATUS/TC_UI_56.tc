@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Paid is included on the Payment status dropdown list</description>
+   <name>TC_UI_56</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3ae1dac-6031-4fed-9ebd-eaf975e5e035</testCaseGuid>
+</TestCaseEntity>

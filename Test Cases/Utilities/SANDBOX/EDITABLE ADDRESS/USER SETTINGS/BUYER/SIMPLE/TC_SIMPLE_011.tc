@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if City value is displayed on City input box when YES button is clicked</description>
+   <name>TC_SIMPLE_011</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0a26c585-9c96-42d4-8a1f-3c47d9af5da9</testCaseGuid>
+</TestCaseEntity>

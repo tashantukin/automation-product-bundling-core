@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Order status will change on Admin PO details to Rejected when Rejected is selected</description>
+   <name>TC_CMPLX_033</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>231f60f2-20ea-4cd5-8e21-922ada61cc80</testCaseGuid>
+</TestCaseEntity>

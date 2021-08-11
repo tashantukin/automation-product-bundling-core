@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Selected value will changed into  Shipped if Shipped is selected</description>
+   <name>TC_SIMPLE_034</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba8d061d-8dcc-47b2-8775-61c21a339a0e</testCaseGuid>
+</TestCaseEntity>

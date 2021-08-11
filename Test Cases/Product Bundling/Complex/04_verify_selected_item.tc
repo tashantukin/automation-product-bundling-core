@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the number value on Product bundling button is based on the selected items on the popup window.</description>
+   <name>04_verify_selected_item</name>
+   <tag></tag>
+   <comment>Search First Item
+Search Second Item
+Search Third Item</comment>
+   <testCaseGuid>9044e6ae-b750-4079-a76a-935111117639</testCaseGuid>
+</TestCaseEntity>

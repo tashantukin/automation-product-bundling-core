@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Order status will change on Merchant Order List to 'Approved' when Approved is selected</description>
+   <name>TC_CMPLX_049</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ced26fc3-eaaf-4e29-801d-201b32442aaf</testCaseGuid>
+</TestCaseEntity>

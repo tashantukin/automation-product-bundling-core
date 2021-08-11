@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if  Postal input box value will be empty when Save button is clicked</description>
+   <name>TC_SIMPLE_061</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df9207e7-b666-43a5-ae82-7e743d8930d0</testCaseGuid>
+</TestCaseEntity>

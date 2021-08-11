@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Shipping status will change on Merchant Order List to Delivered when Delivered is selected</description>
+   <name>TC_CMPLX_173</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>139bcd39-0047-4b7f-899a-311660814301</testCaseGuid>
+</TestCaseEntity>

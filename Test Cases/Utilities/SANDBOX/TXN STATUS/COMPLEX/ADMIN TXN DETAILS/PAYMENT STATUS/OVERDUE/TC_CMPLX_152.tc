@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Payment  status will change on Buyer PO List to Overdue when Overdue is selected</description>
+   <name>TC_CMPLX_152</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d33782e2-3774-4697-8832-575f8d67dee7</testCaseGuid>
+</TestCaseEntity>

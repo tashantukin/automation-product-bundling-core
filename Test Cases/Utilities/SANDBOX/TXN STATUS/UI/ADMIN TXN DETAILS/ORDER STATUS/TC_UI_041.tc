@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if PO Created is included on the Order status dropdown list</description>
+   <name>TC_UI_041</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b4951b0f-3046-4a31-9848-d92097af6d6e</testCaseGuid>
+</TestCaseEntity>

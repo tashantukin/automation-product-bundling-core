@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_USD 5999.00</name>
+   <tag></tag>
+   <elementGuidId>30e34cf8-2ed9-488a-8bbb-1c011d6a112b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react_0HM7K504DNHHT']/div/div[2]/div[3]/div/div/div/div/div/div[5]/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.order-total</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'order-total' and (text() = 'USD $5999.00' or . = 'USD $5999.00')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>order-total</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>USD $5999.00</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react_0HM7K504DNHHT&quot;)/div[1]/div[@class=&quot;order-history-sec-list&quot;]/div[@class=&quot;ordrhist-list-bodysec&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;ordrhist-list-innerbody&quot;]/div[@class=&quot;order-history-sec-list&quot;]/div[@class=&quot;ordrhist-list-innerbody&quot;]/div[@class=&quot;ordrhist-list-bodyrow loadedstatus&quot;]/div[@class=&quot;ordrhist-status-col&quot;]/span[@class=&quot;order-total&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react_0HM7K504DNHHT']/div/div[2]/div[3]/div/div/div/div/div/div[5]/span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='On hold'])[1]/preceding::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='USD $5999.00']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/span[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

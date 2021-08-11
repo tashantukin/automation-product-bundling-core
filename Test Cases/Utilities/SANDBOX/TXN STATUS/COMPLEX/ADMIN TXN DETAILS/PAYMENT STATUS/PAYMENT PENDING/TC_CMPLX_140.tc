@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Payment status will change on Merchant Order List to Payment Pending when Payment Pending is selected</description>
+   <name>TC_CMPLX_140</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>16ccdb07-6b96-4c44-b3a1-e7f99b35bf5a</testCaseGuid>
+</TestCaseEntity>

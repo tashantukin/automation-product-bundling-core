@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if 'Save' button is present on the pop up</description>
+   <name>13_saveButton</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>622c7e08-99e6-44fc-860d-90c54cb2f20f</testCaseGuid>
+</TestCaseEntity>

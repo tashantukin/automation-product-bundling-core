@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Selected value will changed into  'PO Created' if PO Created is selected</description>
+   <name>TC_SIMPLE_012</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>737cd043-4996-4752-b436-2a4977c062d4</testCaseGuid>
+</TestCaseEntity>

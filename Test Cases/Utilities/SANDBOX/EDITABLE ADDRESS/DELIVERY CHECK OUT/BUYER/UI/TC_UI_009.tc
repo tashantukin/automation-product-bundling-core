@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if  CANCEL  button on pop up is clickable</description>
+   <name>TC_UI_009</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>01c53b86-f591-4ff6-9785-8e77418d29bb</testCaseGuid>
+</TestCaseEntity>

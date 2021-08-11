@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if selected dates will be displayed upon clicking 'Apply' button</description>
+   <name>TC_SIMPLE_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a915e2c7-d2f7-474d-acf6-62659fdd9fe8</testCaseGuid>
+</TestCaseEntity>

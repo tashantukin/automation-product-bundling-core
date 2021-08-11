@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Selected value will changed into  'Delivered' if 'Delivered' is selected</description>
+   <name>TC_SIMPLE_032</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dbc54c3c-896c-464f-89cf-ef702911fcf6</testCaseGuid>
+</TestCaseEntity>

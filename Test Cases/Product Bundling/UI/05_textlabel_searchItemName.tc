@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if {Search Item Name } label is present on the pop up</description>
+   <name>05_textlabel_searchItemName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>198060b8-fa40-4879-8c9b-9ab3fa595f73</testCaseGuid>
+</TestCaseEntity>

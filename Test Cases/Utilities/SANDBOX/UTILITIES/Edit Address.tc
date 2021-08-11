@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Edit Address</name>
+   <tag></tag>
+   <comment>Set text of all the fields </comment>
+   <testCaseGuid>eccfba6b-c1c3-49f2-b832-6719ec1b4a58</testCaseGuid>
+</TestCaseEntity>

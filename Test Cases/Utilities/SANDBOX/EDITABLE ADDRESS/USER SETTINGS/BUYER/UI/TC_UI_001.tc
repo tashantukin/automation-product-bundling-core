@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Edit button is displayed on the Saved addresses section</description>
+   <name>TC_UI_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3949e46d-2cdc-43d3-b07c-a3e12da4cb3d</testCaseGuid>
+</TestCaseEntity>

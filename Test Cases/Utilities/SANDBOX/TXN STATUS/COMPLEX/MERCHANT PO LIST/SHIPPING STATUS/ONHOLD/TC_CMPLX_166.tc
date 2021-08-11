@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Shipping  status will change on Buyer PO details to On Hold when On Hold is selected</description>
+   <name>TC_CMPLX_166</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>19fde1a4-b3bf-4fcd-a2f9-6a8036186026</testCaseGuid>
+</TestCaseEntity>

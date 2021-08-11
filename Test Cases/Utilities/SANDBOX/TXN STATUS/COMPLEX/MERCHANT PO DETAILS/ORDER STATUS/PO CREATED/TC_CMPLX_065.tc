@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Order status will change on Buyer PO List to PO Created  when PO Created  is selected</description>
+   <name>TC_CMPLX_065</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2ed1810-ab77-4e5e-8f45-93d9d19d4bf4</testCaseGuid>
+</TestCaseEntity>

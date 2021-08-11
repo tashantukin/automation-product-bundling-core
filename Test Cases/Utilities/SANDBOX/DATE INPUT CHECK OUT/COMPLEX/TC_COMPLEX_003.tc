@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if selected dates are displayed on Admin  order history details</description>
+   <name>TC_COMPLEX_003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>749bd855-f90d-4206-8af8-1a487ffb085e</testCaseGuid>
+</TestCaseEntity>

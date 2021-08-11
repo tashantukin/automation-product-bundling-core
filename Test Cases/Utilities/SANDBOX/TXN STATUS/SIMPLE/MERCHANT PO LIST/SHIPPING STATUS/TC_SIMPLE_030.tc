@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Selected value will changed into  On Hold if On Hold is selected</description>
+   <name>TC_SIMPLE_030</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0350fb3-a57f-4270-9a98-6c2a35ccdc55</testCaseGuid>
+</TestCaseEntity>

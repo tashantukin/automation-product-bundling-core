@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Payment  status will change on Admin PO List to Paid when Paid is selected</description>
+   <name>TC_CMPLX_117</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8280dac-f985-4f74-840e-eb3b27d82e02</testCaseGuid>
+</TestCaseEntity>

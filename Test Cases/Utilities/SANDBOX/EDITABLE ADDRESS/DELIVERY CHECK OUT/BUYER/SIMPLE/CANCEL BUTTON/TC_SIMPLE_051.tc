@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if  City input box value will be empty when Cancel button is clicked</description>
+   <name>TC_SIMPLE_051</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aeb72b85-dfe3-4322-bb6c-b0d89477c17e</testCaseGuid>
+</TestCaseEntity>

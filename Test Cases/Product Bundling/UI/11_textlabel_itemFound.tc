@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if {Item Found } label is present on the pop up</description>
+   <name>11_textlabel_itemFound</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>058dbd37-216d-480d-a2ab-d04c7fca5dcd</testCaseGuid>
+</TestCaseEntity>
